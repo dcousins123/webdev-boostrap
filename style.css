@@ -1,0 +1,42 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
+
+.jumbotron{
+background-image: 
+linear-gradient(
+rgba(0, 0, 250, 0.5), 
+rgba(125, 250, 250, 0.45)
+),
+url(https://source.unsplash.com/1600x1050/?code+tech);
+background-repeat: no-repeat;
+background-size: cover;
+color:white !important;
+}
+
+.footer {
+    color: #FFFFFF;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-image: 
+    linear-gradient(
+    rgba(55, 87, 87, 0.5), 
+    rgba(31, 31, 141, 0.8)
+    ),
+    url(https://source.unsplash.com/1600x1050/?code+tech);
+}
+
+.footer-copyright {
+    color: #D9D9D9;
+}
+
+.carousel-item{
+    height: 200px;
+    width: 800px;
+} 
+.carousel-item img{
+    height: 200px;
+    width: 800px;
+}
